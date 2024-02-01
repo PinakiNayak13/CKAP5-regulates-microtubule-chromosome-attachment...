@@ -1,0 +1,43 @@
+*****************************************************************************************************************************************************************************
+CKAP5 regulates microtubule-chromosome attachment fidelity by stabilizing CENP-E at kinetochores CKAP5 stabilizes CENP-E at kinetochores by regulating microtubule-chromosome attachment
+*****************************************************************************************************************************************************************************
+*  School of Mathematical and Computational Sciences, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700032, India
+*  School of Biology, Indian Institute of Science Education and Research, Thiruvananthapuram, Vithura, Thiruvananthapuram 695551, Kerala, India
+*  Department of Human Molecular Genetics and Biochemistry, Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel
+*  New Chemistry Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru 560064, Karnataka, India.
+*  (c) 2024
+*
+*  DESIGN & DEVELOPMENTS
+*
+*  Pinaki Nayak, Apurba Sarkar, Raja Paul  
+*  School of Mathematical and Computational Sciences, Indian Association for the Cultivation of Science, Jadavpur, Kolkata 700032, India
+*
+*
+*  R. Bhagya Lakshmi, Vishnu M. Nair, Delvin K. Pauly, S. Sajana, Sanusha M. G., Tapas K Manna
+*  School of Biology, Indian Institute of Science Education and Research, Thiruvananthapuram, Vithura, Thiruvananthapuram 695551, Kerala, India
+*
+*  Linoy Raz, Uri Ben-David
+*  Department of Human Molecular Genetics and Biochemistry, Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel
+*  
+*  Akshay Saroha, Pratibha Kumari, Sarit S. Agasti
+*  New Chemistry Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru 560064, Karnataka, India.
+*
+*
+*
+*****************************************************************************************************************************************************************************
+
+OS
+
+Even though the code is developed and run under Linux distro, there is nothing 'Linux' specific in the code. It should be able to run smoothly in other OSs as well. 
+
+PREREQUISITES
+
+* Standard C++ compiler
+
+*Commands to compile the program
+
+1. g++ Kinetochore_Capture.c
+
+2. ./a.out 
+
+
